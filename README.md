@@ -1,3 +1,5 @@
 # Hello-world
-its me ram tayal version 1
+
+A project to write hello world being most difficult thing to do
+
 
