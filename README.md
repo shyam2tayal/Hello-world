@@ -1,3 +1,4 @@
 # Hello-world
-its me ram tayal
+Base configuration init of application
+
 
